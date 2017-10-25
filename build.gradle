@@ -25,10 +25,11 @@ repositories {
 	mavenCentral()
 }
 
-dependencies {
+
+/*dependencies {
 	compile project(':opendk-core')
 	compile project(':opendk-dblibrary')
 	compile project(':opendk-etl')
 	compile project(':opendk-repo')
 	compile project(':opendk-cli')
-}
+}*/

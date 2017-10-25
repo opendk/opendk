@@ -1,0 +1,10 @@
+include "opendk-db"
+/*include "opendk-code"
+include "opendk-etl"*/
+include "opendk-cli"
+/*include "opendk-repo"
+include "opendk-dblibrary"
+include "opendk-dblibrary-oracle"
+include "opendk-dblibrary-sqlsrv"
+include "opendk-lib"
+include "opendk-web"*/
